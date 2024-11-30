@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @poloexe 
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Fullstack Development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Yo!
+- 🌱 I’m currently learning Fullstack Development at TECHSTUDIO ACADEMY
 - 📫 You can follow me on IG @rtro.polo
 
 <!---
