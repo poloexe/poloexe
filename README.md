@@ -1,6 +1,16 @@
+# Hello, I'm Baruch 👋🏿
+<div align="center">
+  <img 
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhvd2Vrb3B3enFhdXJkdTFjdjBoajZzb3pxM293MHc1eG5xdjM2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="40%"
+    style="max-width: 300px; height: auto;"
+    alt="Animated welcome"
+  />
+</div>
+
+
 # 💫 About Me
-✨ Building secure, scalable solutions with innovation at the core. 
-🎯 Passionate about tech, growth, and collaboration.
+<p align="left">👨🏿‍💻 A Fullstack developer <br> ✨ Building secure, scalable solutions with innovation at the core.<br>🎯 Passionate about tech, growth, and collaboration.</p>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rtro.polo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poloexe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/capalot_tecs) 
