@@ -1,7 +1,7 @@
 # Hello, I'm Baruch 👋🏿
 <div align="center">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhvd2Vrb3B3enFhdXJkdTFjdjBoajZzb3pxM293MHc1eG5xdjM2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc1eW1pemc5NDYzYTlvZXF6NndoeHo5ejk1OHF2ZWJmdnRmZXVmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FGpEVeEvXdFvCNqn9/giphy.gif"
     width="40%"
     style="max-width: 300px; height: auto;"
     alt="Animated welcome"
